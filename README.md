@@ -3,7 +3,7 @@ Notification System (OOP Practice)
 A simple Java project demonstrating Inheritance and Polymorphism through a basic notification system.  
 Each notification type extends a common base class and implements its own version of the send() method.
 
-📌 Features
+Features
 - Abstract base class: Notification
 - Three concrete implementations:
   - EmailNotification
